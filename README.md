@@ -2,10 +2,10 @@
 
 This project requires some additional tools
 
-- Python 3.8+
-- Jupyter Notebook
+- Anaconda
+  - RISE plugin
+  - [Jupyter Notebook Extension](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html)
 - .NET Interactive
-- Jupyter RISE plugin
 - Microsoft Edge Chromium or Google Chrome
 - Microsoft Azure Account
 - kubectl
